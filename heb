@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2021-12-31T07:28:10.505Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" version="16.1.2" etag="HuwvYZJpPq_n91cR5KZI" type="github"><diagram id="_5-oMwLOy5JMSjotXuuv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-31T08:30:20.026Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="jK3fsC7yu0-vAoCkIqF3" version="16.1.2" type="github">
+  <diagram id="_5-oMwLOy5JMSjotXuuv" name="Page-1">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cpf04le-byo3lsFhB1_R-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Cpf04le-byo3lsFhB1_R-1" target="Cpf04le-byo3lsFhB1_R-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpf04le-byo3lsFhB1_R-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/font-awesome-brands-vol-1/512/git-square-128.png" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpf04le-byo3lsFhB1_R-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Cpf04le-byo3lsFhB1_R-2" target="Cpf04le-byo3lsFhB1_R-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpf04le-byo3lsFhB1_R-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Code vulnerability&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="390" y="274" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpf04le-byo3lsFhB1_R-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Cpf04le-byo3lsFhB1_R-3" target="Cpf04le-byo3lsFhB1_R-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpf04le-byo3lsFhB1_R-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Code Build&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="670" y="274" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpf04le-byo3lsFhB1_R-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="Cpf04le-byo3lsFhB1_R-5" target="Cpf04le-byo3lsFhB1_R-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpf04le-byo3lsFhB1_R-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Container Registry&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="950" y="274" width="210" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Cpf04le-byo3lsFhB1_R-6" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Deployment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="274" width="210" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
